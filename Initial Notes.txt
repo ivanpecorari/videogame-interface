@@ -5,14 +5,20 @@ Purpose: Leverage videogames interface as form of art
 Vision: be an authority on  videogame interface
 
 
+Intro
+
+what is a videogame interface
+
 Initial topics
 
 Text Adventure 
 
   Part1 the exploration
     Colossal cave adventure 
+    http://rickadams.org/adventure/
     
-    Zork 
+    Zork
+    Infocom packaging 
     
   Part 2 MUD
 
